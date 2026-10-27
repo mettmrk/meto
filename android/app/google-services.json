@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "165643088688",
+    "firebase_url": "https://meto-9e010-default-rtdb.firebaseio.com",
+    "project_id": "meto-9e010",
+    "storage_bucket": "meto-9e010.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165643088688:android:57a68328b31b7616294ef5",
+        "android_client_info": {
+          "package_name": "com.example.meto_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165643088688-pdnme5k5pgkri4vovr6n48hneu0e9qlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3FxgnE1AG_cOZcnLdKzWw3XaibQ8lvpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165643088688-pdnme5k5pgkri4vovr6n48hneu0e9qlp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "165643088688-ia6o98ee86du53h04epqop1acofalt9t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.meto.social.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165643088688:android:31b24c8c8270cc68294ef5",
+        "android_client_info": {
+          "package_name": "com.meto.social.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165643088688-3rtp6ski9f0862pra07fqgarm7qcj6eh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meto.social.app",
+            "certificate_hash": "673ee7975f256d726f63a4480d4c13c10cc5ba3f"
+          }
+        },
+        {
+          "client_id": "165643088688-pdnme5k5pgkri4vovr6n48hneu0e9qlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3FxgnE1AG_cOZcnLdKzWw3XaibQ8lvpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165643088688-pdnme5k5pgkri4vovr6n48hneu0e9qlp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "165643088688-ia6o98ee86du53h04epqop1acofalt9t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.meto.social.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
